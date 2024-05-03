@@ -140,7 +140,8 @@ SOFTWARE.
 
 ## Contact
 
-[Provide contact information for inquiries or support.]
+For inquiries or support, you can reach out to us at [javadsoltanov@gmail.com](mailto:javadsoltanov@gmail.com).
+
 
 ## Conclusion
 

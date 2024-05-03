@@ -28,7 +28,8 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 - Includes various timer functionalities such as stopwatch, Pomodoro timers, and custom interval timers.
 - Helps users track study sessions, manage breaks, and improve time management skills.
 
-### 7. Customizable GUI and Extensive Settings
+
+### 8. Customizable GUI and Extensive Settings
 - Offers a visually appealing and customizable graphical user interface (GUI).
 - Provides extensive settings options to tailor the app experience according to user preferences.
 - Users can customize themes, layouts, notifications, and other app settings.
@@ -48,6 +49,7 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 2. Timetable
 - Allows users to create and manage their university timetable or class schedule.
 - Enables users to input course details, lecture timings, and venue information.
+  ![Timetable View](App%20Showcase/timetable.png)
 
 ### 3. Events
 - Enables users to schedule and manage events, such as exams, project deadlines, or extracurricular activities.
@@ -65,19 +67,28 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 - Includes various timer functionalities to assist users in managing study sessions, breaks, and productivity intervals.
 - Provides options for stopwatch, Pomodoro timers, countdown timers, and custom interval timers.
 - Here is brief showcase:
+  
 ![Pomodoro Timer](App%20Showcase/pomodoro.png)
+
 ![Timer View](App%20Showcase/Timers.png)
+
 ![Stopwatch View](App%20Showcase/stopwathc.png)
 
+### 7. Links
+- You can save links as bookmarks then proceed via the the link provided to other pages.
+- Saving Pdf file links then downloading it 
+- Grouping links and subgrouping them to navigate between them  removing adding actions.
+
+  ![Links View](App%20Showcase/LinksView.png)
 
 
-## Screenshots
-
-[Insert screenshots of the app interface here]
 
 ## Getting Started
 
-[Provide instructions on how to download, install, and use the app.]
+Installation
+Download the latest version of the Universist Planner App or fork the project.
+Extract the downloaded ZIP file to your desired location on your computer.
+Run the App.
 
 ## License
 

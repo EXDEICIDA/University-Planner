@@ -44,6 +44,7 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
   ![Home Page View That Welcomes Us When We First Run The App](App%20Showcase/HomePage.png)
 
 
+
 ### 2. Timetable
 - Allows users to create and manage their university timetable or class schedule.
 - Enables users to input course details, lecture timings, and venue information.
@@ -106,7 +107,10 @@ SOFTWARE.
 
 ## Credits
 
-[Acknowledge any third-party libraries, packages, or APIs used in the development of the app.]
+### Packages Used
+- [SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.
+- [Quest PDF](https://github.com/ironfede/QuestPDF) - Quest PDF is a PDF generation library for .NET Core applications.
+- [FontAwesome](https://fontawesome.com/) - FontAwesome provides scalable vector icons that can be easily customized for use in your applications.
 
 ## Feedback and Contributions
 

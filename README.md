@@ -38,8 +38,8 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 1. Homepage
 - The homepage serves as the central hub for accessing different sections and functionalities of the app.
 - Provides quick links to navigate to the timetable, events, tasks, settings, timers, and help resources.
-- Also seves as quick view that all the sections contents can be viewed at the same times without naviagting through multiple pages.
-- Real time data interactions and chnages.
+- Also serves as a quick view that all the sections contents can be viewed at the same time without navigating through multiple pages.
+- Real-time data interactions and changes.
   
   ![Home Page View That Welcomes Us When We First Run The App](App%20Showcase/HomePage.png)
 
@@ -48,11 +48,13 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 2. Timetable
 - Allows users to create and manage their university timetable or class schedule.
 - Enables users to input course details, lecture timings, and venue information.
+  
   ![Timetable View](App%20Showcase/timetable.png)
 
 ### 3. Events
 - Enables users to schedule and manage events, such as exams, project deadlines, or extracurricular activities.
 - Provides options to set reminders, add event descriptions, and categorize events by type.
+  
   ![Calendar View](App%20Showcase/CalendarView.png)
 
 
@@ -63,13 +65,14 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 5. Settings
 - Offers extensive settings options to customize the app according to user preferences.
 - Allows users to configure themes, notifications, timers, and other app settings.
+  
   ![Settings View](App%20Showcase/settings.png)
 
 
 ### 6. Timers
 - Includes various timer functionalities to assist users in managing study sessions, breaks, and productivity intervals.
 - Provides options for stopwatch, Pomodoro timers, countdown timers, and custom interval timers.
-- Here is brief showcase:
+- Here is a brief showcase:
   
 ![Pomodoro Timer](App%20Showcase/pomodoro.png)
 
@@ -78,10 +81,10 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ![Stopwatch View](App%20Showcase/stopwathc.png)
 
 ### 7. Links
-- You can save links as bookmarks then proceed via the the link provided to other pages.
-- Saving Pdf file links then downloading it 
+- You can save links as bookmarks then proceed via the link provided to other pages.
+- Saving PDF file links then downloading it 
 - Grouping links and subgrouping them to navigate between them  removing adding actions.
-
+  
   ![Links View](App%20Showcase/LinksView.png)
 
 

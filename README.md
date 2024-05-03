@@ -62,6 +62,9 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 - Provides a comprehensive task management system for organizing assignments, projects, and study tasks.
 - Allows users to create, edit, prioritize, and schedule tasks based on university subjects or coursework.
 
+  ![Tasks View](App%20Showcase/tasks.png)
+
+
 ### 5. Settings
 - Offers extensive settings options to customize the app according to user preferences.
 - Allows users to configure themes, notifications, timers, and other app settings.

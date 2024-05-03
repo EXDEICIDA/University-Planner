@@ -38,6 +38,8 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 1. Homepage
 - The homepage serves as the central hub for accessing different sections and functionalities of the app.
 - Provides quick links to navigate to the timetable, events, tasks, settings, timers, and help resources.
+  ![Home Page View That Welcomes Us When We First Run The App](App%20Showcase/HomePage.png)
+
 
 ### 2. Timetable
 - Allows users to create and manage their university timetable or class schedule.

@@ -28,8 +28,7 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 - Includes various timer functionalities such as stopwatch, Pomodoro timers, and custom interval timers.
 - Helps users track study sessions, manage breaks, and improve time management skills.
 
-
-### 8. Customizable GUI and Extensive Settings
+### 7. Customizable GUI and Extensive Settings
 - Offers a visually appealing and customizable graphical user interface (GUI).
 - Provides extensive settings options to tailor the app experience according to user preferences.
 - Users can customize themes, layouts, notifications, and other app settings.
@@ -54,6 +53,8 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 3. Events
 - Enables users to schedule and manage events, such as exams, project deadlines, or extracurricular activities.
 - Provides options to set reminders, add event descriptions, and categorize events by type.
+  ![Calendar View](App%20Showcase/CalendarView.png)
+
 
 ### 4. Tasks
 - Provides a comprehensive task management system for organizing assignments, projects, and study tasks.
@@ -62,6 +63,8 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 5. Settings
 - Offers extensive settings options to customize the app according to user preferences.
 - Allows users to configure themes, notifications, timers, and other app settings.
+  ![Settings View](App%20Showcase/settings.png)
+
 
 ### 6. Timers
 - Includes various timer functionalities to assist users in managing study sessions, breaks, and productivity intervals.

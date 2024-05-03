@@ -64,10 +64,12 @@ The **Universist Planner App** is a comprehensive application developed in C# .N
 ### 6. Timers
 - Includes various timer functionalities to assist users in managing study sessions, breaks, and productivity intervals.
 - Provides options for stopwatch, Pomodoro timers, countdown timers, and custom interval timers.
+- Here is brief showcase:
+![Pomodoro Timer](App%20Showcase/pomodoro.png)
+![Timer View](App%20Showcase/Timers.png)
+![Stopwatch View](App%20Showcase/stopwathc.png)
 
-### 7. Help Resources
-- Provides detailed documentation, tutorials, and tips for using the app effectively.
-- Includes FAQs, troubleshooting guides, and best practices for planning university subjects and enhancing productivity.
+
 
 ## Screenshots
 

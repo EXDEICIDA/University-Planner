@@ -136,13 +136,8 @@ SOFTWARE.
 
 ## Feedback and Contributions
 
-[Encourage users to provide feedback, report bugs, or contribute to the project.]
+Any kind of contributions are welcome.
 
 ## Contact
 
 For inquiries or support, you can reach out to us at [javadsoltanov@gmail.com](mailto:javadsoltanov@gmail.com).
-
-
-## Conclusion
-
-The **Universist Planner App** aims to simplify the task management and planning process for university students, helping them stay organized, focused, and productive in their academic pursuits. With its intuitive interface, extensive features, and customizable options, the app empowers users to take control of their study schedules and achieve academic success.
